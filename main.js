@@ -104,6 +104,7 @@ function handleFileUpload(e) {
   if (e.target.files !== null) {
     const reader = new FileReader();
     const file = e.target.files[0];
+    console.log(e.target.files)
     /*
       if it's srt file, fill text area with srt content
       if it's video, load it into video tag
