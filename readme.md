@@ -3,11 +3,15 @@ Transfer Caption to Graphic And Type
 and get rid of Adobe's god da*n Caption limitations
 
 # Insatall
+## Locally
 1. Download this Project [click here](https://github.com/bradly0cjw/FAPPC/archive/refs/heads/main.zip)<br>
 2. Install node [here](https://nodejs.org/en/download/)<br>
 3. Enter command in Terminator or Run ```install.bat``` in Project folder<br>
 3.1 ```npm install -g http-server```<br>
 4. run ```start.bat``` in Project folder<br>
+## Web base
+1. Just go [here](https://fappc.vercel.app/)
+* You must download [this](https://raw.githubusercontent.com/bradly0cjw/FAPPC/main/Base.xml) file (Ctrl + S in you Browser) in order to use FAPPC function
 
 # Usage
 1. Select srt file you want to transcribe<br>
