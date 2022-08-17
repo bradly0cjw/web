@@ -11,7 +11,7 @@ and get rid of Adobe's god da*n Caption limitations
 4. run ```start.bat``` in Project folder<br>
 ## Web based
 1. Just go [here](https://fappc.vercel.app/)
-* You must download [this](https://github.com/bradly0cjw/FAPPC/releases/download/v1.0.0/Base.xml) file in order to use FAPPC function
+* You must download [this](https://github.com/bradly0cjw/FAPPC/releases) file (Base.xml) in order to use FAPPC function
 
 # Usage
 1. Select srt file you want to transcribe<br>
