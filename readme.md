@@ -9,9 +9,9 @@ and get rid of Adobe's god da*n Caption limitations
 3. Enter command in Terminator or Run ```install.bat``` in Project folder<br>
 3.1 ```npm install -g http-server```<br>
 4. run ```start.bat``` in Project folder<br>
-## Web base
+## Web based
 1. Just go [here](https://fappc.vercel.app/)
-* You must download [this](https://raw.githubusercontent.com/bradly0cjw/FAPPC/main/Base.xml) file (Ctrl + S in you Browser) in order to use FAPPC function
+* You must download [this](https://github.com/bradly0cjw/FAPPC/releases/download/v1.0.0/Base.xml) file in order to use FAPPC function
 
 # Usage
 1. Select srt file you want to transcribe<br>
